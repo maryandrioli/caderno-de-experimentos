@@ -1,21 +1,13 @@
 /** Caderno de Experimentos: casca de aplicação clara para uma galeria editorial pública. */
 import { Toaster } from "@/components/ui/sonner";
 import { TooltipProvider } from "@/components/ui/tooltip";
-import NotFound from "@/pages/NotFound";
-import { Route, Switch } from "wouter";
 import ErrorBoundary from "./components/ErrorBoundary";
 import { ThemeProvider } from "./contexts/ThemeContext";
 import Home from "./pages/Home";
 
 function Router() {
-  return (
-    <Switch>
-      {/* A rota curinga permite servir a galeria sob /caderno-de-experimentos/ no GitHub Pages. */}
-      <Route path={"/*"} component={Home} />
-      <Route path={"/404"} component={NotFound} />
-      <Route component={NotFound} />
-    </Switch>
-  );
+  // Galeria de página única: a renderização direta evita dependência de rota no GitHub Pages.
+  return <Home />;
 }
 
 function App() {
