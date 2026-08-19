@@ -1,0 +1,670 @@
+[
+  {
+    "description": "Gerador de Termo de Estágio",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "estagiopedagogia",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-08-11T16:42:06Z",
+    "url": "https://github.com/maryandrioli/estagiopedagogia",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Kit de marca construído com apoio de IA generativa",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "ploc3d",
+    "primaryLanguage": null,
+    "repositoryTopics": null,
+    "updatedAt": "2026-08-11T10:38:51Z",
+    "url": "https://github.com/maryandrioli/ploc3d",
+    "visibility": "PRIVATE"
+  },
+  {
+    "description": "Disciplina de Metodologias Inovadoras para a Aprendizagem",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "mina",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-08-07T21:54:55Z",
+    "url": "https://github.com/maryandrioli/mina",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "saboteaurpedagogico",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-08-05T18:29:07Z",
+    "url": "https://github.com/maryandrioli/saboteaurpedagogico",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Versao atual do indi-duino 2026",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "indi-duino",
+    "primaryLanguage": {
+      "name": "C++"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-08-11T15:08:08Z",
+    "url": "https://github.com/maryandrioli/indi-duino",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Tecnnologia Tecno Ancestral ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "tecnoancestral",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-06-15T12:47:17Z",
+    "url": "https://github.com/maryandrioli/tecnoancestral",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Espaço para os projetos de letramento e alfabetização",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "letramento",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-06-03T23:49:20Z",
+    "url": "https://github.com/maryandrioli/letramento",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Espaço para enviar arquivos e apresentar nas aulas",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "repositorioslides",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-22T21:10:02Z",
+    "url": "https://github.com/maryandrioli/repositorioslides",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Espaço de criação escolas criativas ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "escolascriativas",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-21T00:25:29Z",
+    "url": "https://github.com/maryandrioli/escolascriativas",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "espaço para receitas adaptadas",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "receitaadaptada",
+    "primaryLanguage": null,
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-17T16:28:39Z",
+    "url": "https://github.com/maryandrioli/receitaadaptada",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Vigotski e Skinner ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "vigoskin",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-16T00:33:42Z",
+    "url": "https://github.com/maryandrioli/vigoskin",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": true,
+    "name": "lpsuporte",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-15T18:24:14Z",
+    "url": "https://github.com/maryandrioli/lpsuporte",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Página do Territórios Conectados",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "passaporteparaaaprendizagem",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-13T02:41:39Z",
+    "url": "https://github.com/maryandrioli/passaporteparaaaprendizagem",
+    "visibility": "PRIVATE"
+  },
+  {
+    "description": "Fichas Letramento a partir de atividade de leitura e escrita - Pedagogia 2026",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "fichas-letramento",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-05-12T20:59:46Z",
+    "url": "https://github.com/maryandrioli/fichas-letramento",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Código para Shield de Greg Maker Leonardo: shield que possibilita o arduino Leonardo funcionar como o Greg Maker. ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "gregmakerleonardo",
+    "primaryLanguage": {
+      "name": "C++"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-04-28T09:07:33Z",
+    "url": "https://github.com/maryandrioli/gregmakerleonardo",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Espaço para criar alfabeto móvel com sons. O professor ou outro estudante cria sua frase ou seleciona letras que serão embaralhadas para as crianças reorganizarem",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "criealfabetomovel",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-04-15T03:11:03Z",
+    "url": "https://github.com/maryandrioli/criealfabetomovel",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Plataforma para criação de jogos Acessíveis para Ver, Ouvir e Sentir",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "javos",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2026-04-13T23:00:44Z",
+    "url": "https://github.com/maryandrioli/javos",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Proposta de aulas e leituras da disciplina de Fundamentos e Práticas da Educação Infantil 2025",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "fpei",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-09-25T21:17:08Z",
+    "url": "https://github.com/maryandrioli/fpei",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "disciplina de jogos, brinquedos e brincadeiras",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "jogosebrincadeiras",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-09-13T17:46:15Z",
+    "url": "https://github.com/maryandrioli/jogosebrincadeiras",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "metafora piso baixo, teto alto e paredes largas. ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "casa",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-09-09T12:37:28Z",
+    "url": "https://github.com/maryandrioli/casa",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Encontro Nacional Steam",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "steam",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-09-04T18:07:23Z",
+    "url": "https://github.com/maryandrioli/steam",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Espaço para compartilhar as propostas da Oficina Steam & IA do Encontro Nacional Steam 2025",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "steam-ia",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-09-01T11:22:26Z",
+    "url": "https://github.com/maryandrioli/steam-ia",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Localizador de Recursos de Tecnologia Assistiva Organize por tipo e funcionalidade. Pesquise por nome, finalidade ou público. Os vídeos de apoio estão incluídos.",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "recursosTA",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-08-18T01:01:42Z",
+    "url": "https://github.com/maryandrioli/recursosTA",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Indicadores de qualidade para avaliação de TA na escola",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "indicadoresTA",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-08-17T21:58:02Z",
+    "url": "https://github.com/maryandrioli/indicadoresTA",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "App para incentivar a observação e replica de padrões ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "traceme",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-08-15T16:17:16Z",
+    "url": "https://github.com/maryandrioli/traceme",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "sistema para gerar termo de compromisso e plano de atividades de estágio ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "sistema-estagio-ifsp",
+    "primaryLanguage": null,
+    "repositoryTopics": null,
+    "updatedAt": "2025-06-30T00:40:28Z",
+    "url": "https://github.com/maryandrioli/sistema-estagio-ifsp",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "🎯 Jogos e Estratégias Lúdicas para Promoção de Práticas Restaurativas  Uma plataforma interativa para explorar jogos e atividades que promovem práticas restaurativas no ambiente escolar.",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "jogospraticasrestaurativas",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-06-29T16:40:46Z",
+    "url": "https://github.com/maryandrioli/jogospraticasrestaurativas",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Engrenar",
+    "homepageUrl": "https://engrenar.vercel.app",
+    "isArchived": false,
+    "isFork": false,
+    "name": "engrenar",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2025-01-29T22:29:23Z",
+    "url": "https://github.com/maryandrioli/engrenar",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Músicas de São Roque",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "musicassrq",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2024-12-06T10:33:26Z",
+    "url": "https://github.com/maryandrioli/musicassrq",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "App sons de São Roque",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "appsrq",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2024-12-05T17:19:33Z",
+    "url": "https://github.com/maryandrioli/appsrq",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Curadoria dos passeios sonoros realizados nas escolas",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "passeiossonoros",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2024-12-05T11:12:49Z",
+    "url": "https://github.com/maryandrioli/passeiossonoros",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "App piano instalavel",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "pianoapp",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2024-12-03T21:19:58Z",
+    "url": "https://github.com/maryandrioli/pianoapp",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Teleprompter que funciona também acionando as teclas seta para cima, seta para a esquerda, seta para direita e seta para baixo. ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "teleprompter",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2024-11-22T18:08:53Z",
+    "url": "https://github.com/maryandrioli/teleprompter",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "stopmotion",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "stopmotion",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2024-11-18T21:49:23Z",
+    "url": "https://github.com/maryandrioli/stopmotion",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Gravador de sons que funciona com as setas do teclado, space e return. Na primeira vez grava, na segunda escuta.",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "gravador-de-sons",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-12-29T18:37:46Z",
+    "url": "https://github.com/maryandrioli/gravador-de-sons",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "compositor de sons para uso com Greg Maker. ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "pianogregmaker",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-12-29T20:10:23Z",
+    "url": "https://github.com/maryandrioli/pianogregmaker",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Sons das regiões do Brasil",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "regioes",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-12-10T12:11:09Z",
+    "url": "https://github.com/maryandrioli/regioes",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "site teste CA",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "site_CA",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-07-31T20:26:07Z",
+    "url": "https://github.com/maryandrioli/site_CA",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Oficina IA da disciplina de Didática",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "didatica",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-08-21T00:06:32Z",
+    "url": "https://github.com/maryandrioli/didatica",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Oficina de Inteligencia artificial - Ensino Fundamental I",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "iaf1",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-08-19T03:04:40Z",
+    "url": "https://github.com/maryandrioli/iaf1",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Inteligencia artificial",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "ia",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-08-05T02:44:05Z",
+    "url": "https://github.com/maryandrioli/ia",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Oficina de Inteligencia Artificial na Educação",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "oficina_IA",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-08-05T02:32:42Z",
+    "url": "https://github.com/maryandrioli/oficina_IA",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Jogo da forca",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "jogodaforca",
+    "primaryLanguage": {
+      "name": "JavaScript"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-02-10T23:21:10Z",
+    "url": "https://github.com/maryandrioli/jogodaforca",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Pagina pessoal ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "paginapessoal",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2023-02-22T21:22:03Z",
+    "url": "https://github.com/maryandrioli/paginapessoal",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Jogos criados em Scratch e convertidos para html",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "jogos",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": [
+      {
+        "name": "covid"
+      }
+    ],
+    "updatedAt": "2023-02-12T20:21:54Z",
+    "url": "https://github.com/maryandrioli/jogos",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Amostra de audio para uso com o Greg maker",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "mostradeaudio",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2022-06-18T13:54:50Z",
+    "url": "https://github.com/maryandrioli/mostradeaudio",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "Arquivos do curso de HTML e CSS - Alura ",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "barbeariaalura",
+    "primaryLanguage": {
+      "name": "HTML"
+    },
+    "repositoryTopics": null,
+    "updatedAt": "2022-06-22T14:00:58Z",
+    "url": "https://github.com/maryandrioli/barbeariaalura",
+    "visibility": "PUBLIC"
+  },
+  {
+    "description": "compartihando alguns testes e aprendizagens",
+    "homepageUrl": "",
+    "isArchived": false,
+    "isFork": false,
+    "name": "aprendizagens",
+    "primaryLanguage": null,
+    "repositoryTopics": null,
+    "updatedAt": "2021-11-13T00:00:55Z",
+    "url": "https://github.com/maryandrioli/aprendizagens",
+    "visibility": "PUBLIC"
+  }
+]

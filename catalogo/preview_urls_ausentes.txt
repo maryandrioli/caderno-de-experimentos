@@ -1,0 +1,12 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/site_CA.png (size: 417011 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/site_CA_c02a8bd6.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/stopmotion.png (size: 53561 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/stopmotion_3250f5f8.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/site_CA.png -> /manus-storage/site_CA_c02a8bd6.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/stopmotion.png -> /manus-storage/stopmotion_3250f5f8.png
+=====================================
+Total: 2, Success: 2, Failed: 0

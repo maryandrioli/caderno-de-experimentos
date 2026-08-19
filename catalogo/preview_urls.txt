@@ -1,0 +1,140 @@
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/appsrq.png (size: 18823 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/appsrq_2c85c583.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/barbeariaalura.png (size: 1001649 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/barbeariaalura_b9d61f00.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/casa.png (size: 19095 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/casa_8521c1d4.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/criealfabetomovel.png (size: 183100 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/criealfabetomovel_19dfd3ef.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/didatica.png (size: 272407 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/didatica_27654d69.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/engrenar.png (size: 287650 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/engrenar_da55d410.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/estagiopedagogia.png (size: 178342 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/estagiopedagogia_7f1a9f39.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/fichas-letramento.png (size: 17157 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fichas-letramento_9155aaed.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/fpei.png (size: 145109 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/fpei_99ad4cc3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/gravador-de-sons.png (size: 20830 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/gravador-de-sons_5678cf6b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/ia.png (size: 272407 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/ia_2dd6fba4.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/iaf1.png (size: 237817 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/iaf1_ec35dc2f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/indicadoresTA.png (size: 237250 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/indicadoresTA_7451303e.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/jogodaforca.png (size: 43638 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/jogodaforca_aad42670.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/jogos.png (size: 19779 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/jogos_a04573a5.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/jogosebrincadeiras.png (size: 126489 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/jogosebrincadeiras_7a56778c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/jogospraticasrestaurativas.png (size: 174783 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/jogospraticasrestaurativas_1256ce8b.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/letramento.png (size: 247904 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/letramento_db04f35f.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/mina.png (size: 138860 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mina_a073d129.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/mostradeaudio.png (size: 59550 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/mostradeaudio_d810dfae.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/musicassrq.png (size: 17570 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/musicassrq_d52c3c30.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/paginapessoal.png (size: 115628 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/paginapessoal_1ec62f9d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/passeiossonoros.png (size: 16211 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/passeiossonoros_5624a906.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/pianogregmaker.png (size: 6026 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/pianogregmaker_aceb74c3.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/recursosTA.png (size: 169220 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/recursosTA_7a4d4418.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/regioes.png (size: 19472 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/regioes_37fde3dd.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/repositorioslides.png (size: 101048 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/repositorioslides_49fab4a4.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/saboteaurpedagogico.png (size: 104222 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/saboteaurpedagogico_606c6065.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/steam-ia.png (size: 29278 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/steam-ia_a3037c2c.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/steam.png (size: 113840 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/steam_581a75c8.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/tecnoancestral.png (size: 249049 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/tecnoancestral_6e5fdb0d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/teleprompter.png (size: 25879 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/teleprompter_c02cfb7d.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/traceme.png (size: 202361 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/traceme_e8d0e850.png
+Uploading file (webdev private): /home/ubuntu/webdev-static-assets/previews-github/vigoskin.png (size: 472866 bytes)
+File uploaded successfully!
+Storage Path: /manus-storage/vigoskin_7c8f0bb9.png
+
+========== Upload Summary ==========
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/appsrq.png -> /manus-storage/appsrq_2c85c583.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/barbeariaalura.png -> /manus-storage/barbeariaalura_b9d61f00.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/casa.png -> /manus-storage/casa_8521c1d4.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/criealfabetomovel.png -> /manus-storage/criealfabetomovel_19dfd3ef.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/didatica.png -> /manus-storage/didatica_27654d69.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/engrenar.png -> /manus-storage/engrenar_da55d410.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/estagiopedagogia.png -> /manus-storage/estagiopedagogia_7f1a9f39.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/fichas-letramento.png -> /manus-storage/fichas-letramento_9155aaed.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/fpei.png -> /manus-storage/fpei_99ad4cc3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/gravador-de-sons.png -> /manus-storage/gravador-de-sons_5678cf6b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/ia.png -> /manus-storage/ia_2dd6fba4.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/iaf1.png -> /manus-storage/iaf1_ec35dc2f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/indicadoresTA.png -> /manus-storage/indicadoresTA_7451303e.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/jogodaforca.png -> /manus-storage/jogodaforca_aad42670.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/jogos.png -> /manus-storage/jogos_a04573a5.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/jogosebrincadeiras.png -> /manus-storage/jogosebrincadeiras_7a56778c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/jogospraticasrestaurativas.png -> /manus-storage/jogospraticasrestaurativas_1256ce8b.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/letramento.png -> /manus-storage/letramento_db04f35f.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/mina.png -> /manus-storage/mina_a073d129.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/mostradeaudio.png -> /manus-storage/mostradeaudio_d810dfae.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/musicassrq.png -> /manus-storage/musicassrq_d52c3c30.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/paginapessoal.png -> /manus-storage/paginapessoal_1ec62f9d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/passeiossonoros.png -> /manus-storage/passeiossonoros_5624a906.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/pianogregmaker.png -> /manus-storage/pianogregmaker_aceb74c3.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/recursosTA.png -> /manus-storage/recursosTA_7a4d4418.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/regioes.png -> /manus-storage/regioes_37fde3dd.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/repositorioslides.png -> /manus-storage/repositorioslides_49fab4a4.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/saboteaurpedagogico.png -> /manus-storage/saboteaurpedagogico_606c6065.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/steam-ia.png -> /manus-storage/steam-ia_a3037c2c.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/steam.png -> /manus-storage/steam_581a75c8.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/tecnoancestral.png -> /manus-storage/tecnoancestral_6e5fdb0d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/teleprompter.png -> /manus-storage/teleprompter_c02cfb7d.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/traceme.png -> /manus-storage/traceme_e8d0e850.png
+[SUCCESS] /home/ubuntu/webdev-static-assets/previews-github/vigoskin.png -> /manus-storage/vigoskin_7c8f0bb9.png
+=====================================
+Total: 34, Success: 34, Failed: 0

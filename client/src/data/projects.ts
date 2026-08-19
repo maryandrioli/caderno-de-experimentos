@@ -1,3 +1,5 @@
+import { videoProjects } from "./videoProjects";
+
 /**
  * Caderno de Experimentos: dados editoriais do acervo.
  * Cada item pode ser atualizado diretamente quando houver novas descrições, tags ou links.
@@ -8,7 +10,8 @@ export type Category =
   | "Arte & Som"
   | "Ferramentas"
   | "Robótica"
-  | "Portfólio & Estudos";
+  | "Portfólio & Estudos"
+  | "Vídeos e Palestras";
 
 export type Project = {
   slug: string;
@@ -23,6 +26,8 @@ export type Project = {
   visibility: "public" | "private";
   featured?: boolean;
   provisional?: boolean;
+  contentType?: "project" | "video";
+  videoMeta?: string;
 };
 
 export const categories: Array<Category | "Todos"> = [
@@ -33,12 +38,14 @@ export const categories: Array<Category | "Todos"> = [
   "Ferramentas",
   "Robótica",
   "Portfólio & Estudos",
+  "Vídeos e Palestras",
 ];
 
 const github = (slug: string) => `https://github.com/maryandrioli/${slug}`;
 
 /** Mantém os ativos no armazenamento Manus durante o desenvolvimento e usa cópias versionadas no GitHub Pages. */
 export const galleryAsset = (storagePath: string) => {
+  if (storagePath.startsWith("http")) return storagePath;
   if (import.meta.env.VITE_PUBLISH_TARGET === "github") {
     const fileName = storagePath.split("/").pop();
     return `${import.meta.env.BASE_URL}assets/${fileName}`;
@@ -540,6 +547,7 @@ export const projects = ([
     repoUrl: github("aprendizagens"),
     visibility: "public",
   },
+  ...videoProjects,
 ] satisfies Project[]).map((project) => ({
   ...project,
   preview: project.preview ? galleryAsset(project.preview) : undefined,

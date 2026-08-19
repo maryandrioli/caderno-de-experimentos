@@ -1,0 +1,670 @@
+[1;37m[[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Gerador de Termo de Estágio"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"estagiopedagogia"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-11T16:42:06Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/estagiopedagogia"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Kit de marca construído com apoio de IA generativa"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"ploc3d"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-11T10:38:51Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/ploc3d"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PRIVATE"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Disciplina de Metodologias Inovadoras para a Aprendizagem"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"mina"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-07T21:54:55Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/mina"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"saboteaurpedagogico"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-05T18:29:07Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/saboteaurpedagogico"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Versao atual do indi-duino 2026"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"indi-duino"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"C++"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-08-11T15:08:08Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/indi-duino"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Tecnnologia Tecno Ancestral "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"tecnoancestral"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-06-15T12:47:17Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/tecnoancestral"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Espaço para os projetos de letramento e alfabetização"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"letramento"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-06-03T23:49:20Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/letramento"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Espaço para enviar arquivos e apresentar nas aulas"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"repositorioslides"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-22T21:10:02Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/repositorioslides"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Espaço de criação escolas criativas "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"escolascriativas"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-21T00:25:29Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/escolascriativas"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"espaço para receitas adaptadas"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"receitaadaptada"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-17T16:28:39Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/receitaadaptada"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Vigotski e Skinner "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"vigoskin"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-16T00:33:42Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/vigoskin"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mtrue[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"lpsuporte"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-15T18:24:14Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/lpsuporte"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Página do Territórios Conectados"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"passaporteparaaaprendizagem"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-13T02:41:39Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/passaporteparaaaprendizagem"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PRIVATE"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Fichas Letramento a partir de atividade de leitura e escrita - Pedagogia 2026"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"fichas-letramento"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-05-12T20:59:46Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/fichas-letramento"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Código para Shield de Greg Maker Leonardo: shield que possibilita o arduino Leonardo funcionar como o Greg Maker. "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"gregmakerleonardo"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"C++"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-04-28T09:07:33Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/gregmakerleonardo"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Espaço para criar alfabeto móvel com sons. O professor ou outro estudante cria sua frase ou seleciona letras que serão embaralhadas para as crianças reorganizarem"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"criealfabetomovel"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-04-15T03:11:03Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/criealfabetomovel"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Plataforma para criação de jogos Acessíveis para Ver, Ouvir e Sentir"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"javos"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2026-04-13T23:00:44Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/javos"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Proposta de aulas e leituras da disciplina de Fundamentos e Práticas da Educação Infantil 2025"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"fpei"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-09-25T21:17:08Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/fpei"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"disciplina de jogos, brinquedos e brincadeiras"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"jogosebrincadeiras"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-09-13T17:46:15Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/jogosebrincadeiras"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"metafora piso baixo, teto alto e paredes largas. "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"casa"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-09-09T12:37:28Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/casa"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Encontro Nacional Steam"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"steam"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-09-04T18:07:23Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/steam"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Espaço para compartilhar as propostas da Oficina Steam & IA do Encontro Nacional Steam 2025"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"steam-ia"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-09-01T11:22:26Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/steam-ia"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Localizador de Recursos de Tecnologia Assistiva Organize por tipo e funcionalidade. Pesquise por nome, finalidade ou público. Os vídeos de apoio estão incluídos."[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"recursosTA"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-08-18T01:01:42Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/recursosTA"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Indicadores de qualidade para avaliação de TA na escola"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"indicadoresTA"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-08-17T21:58:02Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/indicadoresTA"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"App para incentivar a observação e replica de padrões "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"traceme"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-08-15T16:17:16Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/traceme"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"sistema para gerar termo de compromisso e plano de atividades de estágio "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"sistema-estagio-ifsp"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-06-30T00:40:28Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/sistema-estagio-ifsp"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"🎯 Jogos e Estratégias Lúdicas para Promoção de Práticas Restaurativas  Uma plataforma interativa para explorar jogos e atividades que promovem práticas restaurativas no ambiente escolar."[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"jogospraticasrestaurativas"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-06-29T16:40:46Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/jogospraticasrestaurativas"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Engrenar"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m"https://engrenar.vercel.app"[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"engrenar"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2025-01-29T22:29:23Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/engrenar"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Músicas de São Roque"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"musicassrq"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2024-12-06T10:33:26Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/musicassrq"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"App sons de São Roque"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"appsrq"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2024-12-05T17:19:33Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/appsrq"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Curadoria dos passeios sonoros realizados nas escolas"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"passeiossonoros"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2024-12-05T11:12:49Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/passeiossonoros"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"App piano instalavel"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"pianoapp"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2024-12-03T21:19:58Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/pianoapp"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Teleprompter que funciona também acionando as teclas seta para cima, seta para a esquerda, seta para direita e seta para baixo. "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"teleprompter"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2024-11-22T18:08:53Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/teleprompter"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"stopmotion"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"stopmotion"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2024-11-18T21:49:23Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/stopmotion"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Gravador de sons que funciona com as setas do teclado, space e return. Na primeira vez grava, na segunda escuta."[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"gravador-de-sons"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-12-29T18:37:46Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/gravador-de-sons"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"compositor de sons para uso com Greg Maker. "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"pianogregmaker"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-12-29T20:10:23Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/pianogregmaker"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Sons das regiões do Brasil"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"regioes"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-12-10T12:11:09Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/regioes"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"site teste CA"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"site_CA"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-07-31T20:26:07Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/site_CA"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Oficina IA da disciplina de Didática"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"didatica"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-08-21T00:06:32Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/didatica"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Oficina de Inteligencia artificial - Ensino Fundamental I"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"iaf1"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-08-19T03:04:40Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/iaf1"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Inteligencia artificial"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"ia"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-08-05T02:44:05Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/ia"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Oficina de Inteligencia Artificial na Educação"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"oficina_IA"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-08-05T02:32:42Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/oficina_IA"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Jogo da forca"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"jogodaforca"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"JavaScript"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-02-10T23:21:10Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/jogodaforca"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Pagina pessoal "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"paginapessoal"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-02-22T21:22:03Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/paginapessoal"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Jogos criados em Scratch e convertidos para html"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"jogos"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [1;37m[[m
+      [1;37m{[m
+        [1;34m"name"[m[1;37m:[m [32m"covid"[m
+      [1;37m}[m
+    [1;37m][m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2023-02-12T20:21:54Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/jogos"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Amostra de audio para uso com o Greg maker"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"mostradeaudio"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2022-06-18T13:54:50Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/mostradeaudio"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"Arquivos do curso de HTML e CSS - Alura "[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"barbeariaalura"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [1;37m{[m
+      [1;34m"name"[m[1;37m:[m [32m"HTML"[m
+    [1;37m}[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2022-06-22T14:00:58Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/barbeariaalura"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m[1;37m,[m
+  [1;37m{[m
+    [1;34m"description"[m[1;37m:[m [32m"compartihando alguns testes e aprendizagens"[m[1;37m,[m
+    [1;34m"homepageUrl"[m[1;37m:[m [32m""[m[1;37m,[m
+    [1;34m"isArchived"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"isFork"[m[1;37m:[m [33mfalse[m[1;37m,[m
+    [1;34m"name"[m[1;37m:[m [32m"aprendizagens"[m[1;37m,[m
+    [1;34m"primaryLanguage"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"repositoryTopics"[m[1;37m:[m [36mnull[m[1;37m,[m
+    [1;34m"updatedAt"[m[1;37m:[m [32m"2021-11-13T00:00:55Z"[m[1;37m,[m
+    [1;34m"url"[m[1;37m:[m [32m"https://github.com/maryandrioli/aprendizagens"[m[1;37m,[m
+    [1;34m"visibility"[m[1;37m:[m [32m"PUBLIC"[m
+  [1;37m}[m
+[1;37m][m

@@ -14,6 +14,7 @@ import {
   LockKeyhole,
   Search,
   Sparkles,
+  Youtube,
   X,
 } from "lucide-react";
 import { categories, galleryAsset, projects, type Category, type Project } from "@/data/projects";
@@ -28,6 +29,7 @@ const categoryMarks: Record<Category, string> = {
   Ferramentas: "F",
   Robótica: "R",
   "Portfólio & Estudos": "P",
+  "Vídeos e Palestras": "V",
 };
 
 function ProjectCard({ project, index }: { project: Project; index: number }) {
@@ -51,7 +53,9 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
         <div className="cover-shade" />
         <div className="cover-meta">
           <span className="category-label">{project.category}</span>
-          {!project.demoUrl && project.visibility === "private" ? (
+          {project.contentType === "video" ? (
+            <span className="access-label"><Youtube size={12} /> vídeo</span>
+          ) : !project.demoUrl && project.visibility === "private" ? (
             <span className="access-label"><LockKeyhole size={12} /> privado</span>
           ) : project.demoUrl ? (
             <span className="access-label">captura web</span>
@@ -68,6 +72,8 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
         </div>
         <p>{project.description}</p>
 
+        {project.videoMeta && <div className="video-meta"><Youtube size={13} /> {project.videoMeta}</div>}
+
         <div className="tag-list" aria-label={`Tags de ${project.title}`}>
           {project.tags.slice(0, 4).map((tag) => <span key={tag}>#{tag}</span>)}
         </div>
@@ -75,14 +81,17 @@ function ProjectCard({ project, index }: { project: Project; index: number }) {
         <div className="project-links">
           {project.demoUrl ? (
             <a href={project.demoUrl} target="_blank" rel="noreferrer">
-              <ExternalLink size={15} /> Abrir experiência
+              {project.contentType === "video" ? <Youtube size={15} /> : <ExternalLink size={15} />}
+              {project.contentType === "video" ? "Assistir vídeo" : "Abrir experiência"}
             </a>
           ) : (
             <span className="project-link project-link--muted">
               <Code2 size={15} /> {project.visibility === "private" ? "Acesso restrito" : "Sem demo pública"}
             </span>
           )}
-          {project.repoUrl && project.visibility === "public" ? (
+          {project.contentType === "video" ? (
+            <span className="project-link project-link--muted">seleção audiovisual</span>
+          ) : project.repoUrl && project.visibility === "public" ? (
             <a className="project-link--github" href={project.repoUrl} target="_blank" rel="noreferrer" aria-label={`Ver código de ${project.title} no GitHub`}>
               <Github size={17} /> Código
             </a>
@@ -134,9 +143,9 @@ export default function Home() {
           <div className="hero-copy">
             <div className="eyebrow"><Sparkles size={15} /> coleção digital · 2026</div>
             <h1>Ideias que<br /><em>viram experiência.</em></h1>
-            <p>Um acervo vivo de projetos de educação, tecnologia, som e jogo. Explore as experiências, abra as demonstrações e encontre os códigos que as sustentam.</p>
+            <p>Um acervo vivo de projetos, vídeos e palestras sobre educação, tecnologia, som e jogo. Explore as experiências, assista às falas e encontre os códigos que as sustentam.</p>
             <div className="hero-counts" aria-label="Resumo do acervo">
-              <div><strong>{projects.length}</strong><span>projetos<br />catalogados</span></div>
+              <div><strong>{projects.length}</strong><span>itens<br />catalogados</span></div>
               <div><strong>{webProjects}</strong><span>experiências<br />na web</span></div>
               <div><strong>{privateProjects}</strong><span>itens de<br />acesso restrito</span></div>
             </div>
