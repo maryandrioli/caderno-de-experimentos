@@ -10,3 +10,7 @@
 | Playlist | `HRWfjW0kXvA`: uso crítico, ético, responsável e sustentável da IA; `U8xNLGAM5ug`: uso criativo da IA no planejamento de aulas. | https://www.youtube.com/watch?v=HRWfjW0kXvA · https://www.youtube.com/watch?v=U8xNLGAM5ug |
 | Referência | O Instituto Escolas Criativas descreve os três webinários do GT Aprendendo sobre a IA com a IA, incluindo a participação de Mary Grace no Webinário 3. | https://escolascriativas.org/aprendendo-sobre-a-ia-com-a-ia/aprendendo-sobre-a-ia-com-a-ia-um-grupo-de-trabalho-colaborativo-sobre-o-uso-criativo-da-inteligencia-artificial-em-sala-de-aula/ |
 | Canal | O canal Mary Grace - Vivência Pedagógica lista o vídeo em italiano e produções relacionadas a inclusão escolar no ensino remoto. | https://www.youtube.com/c/MaryAndrioli |
+
+## Publicação externa
+
+O repositório público `maryandrioli/caderno-de-experimentos` está configurado no GitHub Pages para publicar a partir do ramo `gh-pages`, na raiz, com o endereço `https://maryandrioli.github.io/caderno-de-experimentos/` confirmado nas configurações do repositório em 2026-08-19.
